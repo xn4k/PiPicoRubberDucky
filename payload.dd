@@ -1,0 +1,55 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+GUI UPARROW
+DELAY 500
+STRING You can hardly suck my dick
+ENTER
+STRING Because this device was hacked by michelangelo der pimmelangelo
+ENTER
+STRING Sternezichen frankfurt
+ENTER
+STRING Probier das mal auszumachen
+ENTER
+STRING Kleiner hs
+ENTER
+STRING Das ist eine BadUSB, alls was grade passiert wird automatisch ausgefüghrt, dein Glück dass diesmal der script harmlos ist ;)
+ENTER
+STRING Ein BadUSB ist ein USB-Geraet, das so programmiert wurde, dass es sich als ein anderes Geraet ausgibt, als das, was es tatsaechlich ist. Auf diese Weise kann es einem Angreifer ermoeglichen, auf einem System boesartigen Code auszufuehren oder sensible Daten zu stehlen. Ein BadUSB kann zum Beispiel als eine Tastatur getarnt werden und Tastatureingaben simulieren, um ein System zu kompromittieren. Es kann auch als Netzwerkadapter getarnt werden, um einen Computer mit einem schaedlichen Netzwerk zu verbinden oder als Massenspeichergeraet getarnt werden, um Malware auf einem System zu installieren. BadUSB-Angriffe koennen schwierig zu erkennen sein und sind eine ernsthafte Bedrohung fuer die IT-Sicherheit.
+ENTER
+ENTER
+ENTER
+ENTER
+STRING             #    # ###### #    # ###### #####       ####   ####  #    # #    #   ##
+ENTER
+STRING             ##   # #      #    # #      #    #     #    # #    # ##   # ##   #  #  #
+ENTER
+STRING             # #  # #####  #    # #####  #    #     #      #    # # #  # # #  # #    #
+ENTER
+STRING             #  # # #      #    # #      #####      #  ### #    # #  # # #  # # ######
+ENTER
+STRING             #   ## #       #  #  #      #   #      #    # #    # #   ## #   ## #    #
+ENTER
+STRING             #    # ######   ##   ###### #    #      ####   ####  #    # #    # #    #
+ENTER
+ENTER
+ENTER                                                       
+STRING                  ####  # #    # ######     #   #  ####  #    #     #    # #####
+ENTER
+STRING                 #    # # #    # #           # #  #    # #    #     #    # #    #
+ENTER
+STRING                 #      # #    # #####        #   #    # #    #     #    # #    #
+ENTER
+STRING                 #  ### # #    # #            #   #    # #    #     #    # #####
+ENTER
+STRING                 #    # #  #  #  #            #   #    # #    #     #    # #
+ENTER
+STRING                  ####  #   ##   ######       #    ####   ####       ####  #
+ENTER
+DELAY 2000
+CTRL HOME
+DELAY 2000
+CTRL END

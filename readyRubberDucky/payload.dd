@@ -1,0 +1,54 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING notepad
+ENTER
+DELAY 1000
+GUI UPARROW
+DELAY 500
+STRING You can hardly suck my dick
+ENTER
+STRING Because this device was hacked by michelangelo der pimmelangelo
+ENTER
+STRING Sternezichen frankfurt
+ENTER
+STRING Probier das mal auszumachen
+ENTER
+STRING Kleiner hs
+ENTER
+STRING Das ist eine BadUSB, alls was grade passiert wird automatisch ausgefuehrt, dein Glueck dass der script diesmal harmlos ist ;)
+ENTER
+ENTER
+ENTER
+ENTER
+ENTER
+STRING             #    # ###### #    # ###### #####       ####   ####  #    # #    #   ##
+ENTER
+STRING             ##   # #      #    # #      #    #     #    # #    # ##   # ##   #  #  #
+ENTER
+STRING             # #  # #####  #    # #####  #    #     #      #    # # #  # # #  # #    #
+ENTER
+STRING             #  # # #      #    # #      #####      #  ### #    # #  # # #  # # ######
+ENTER
+STRING             #   ## #       #  #  #      #   #      #    # #    # #   ## #   ## #    #
+ENTER
+STRING             #    # ######   ##   ###### #    #      ####   ####  #    # #    # #    #
+ENTER
+ENTER
+ENTER                                                       
+STRING                  ####  # #    # ######     #   #  ####  #    #     #    # #####
+ENTER
+STRING                 #    # # #    # #           # #  #    # #    #     #    # #    #
+ENTER
+STRING                 #      # #    # #####        #   #    # #    #     #    # #    #
+ENTER
+STRING                 #  ### # #    # #            #   #    # #    #     #    # #####
+ENTER
+STRING                 #    # #  #  #  #            #   #    # #    #     #    # #
+ENTER
+STRING                  ####  #   ##   ######       #    ####   ####       ####  #
+ENTER
+DELAY 2000
+CTRL HOME
+DELAY 2000
+CTRL END

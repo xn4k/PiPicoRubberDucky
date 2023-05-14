@@ -1,0 +1,5 @@
+readyRubberDucky folder ist der fertige folder mit rubber ducky, einfach auf raspberry py kopieren , den ganzen folder und ein script soll ausgeführt werden,
+
+flash_nuke.uf2 - um raspberry py pico zu rebooten und auf default zu setzen
+
+adafruit-circuitpython-raspberry_pi_pico-de_DE-8.0.5 - auf pico kopieren bevor alles um den in rubber ducky zustand zu bringen.

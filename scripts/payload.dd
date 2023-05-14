@@ -1,0 +1,30 @@
+DELAY 2000
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 1000
+STRING powershell -WindowStyle Hidden
+ENTER
+DELAY 500
+STRING Add-Type -AssemblyName System.Windows.Forms
+ENTER
+STRING $old = [Windows.Forms.Cursor]::Position
+ENTER
+WHILE ($true) {
+ENTER
+STRING [Windows.Forms.Cursor]::Position = New-Object System.Drawing.Point((Get-Random -Minimum 1 -Maximum 10000), (Get-Random -Minimum 1 -Maximum 10000))
+ENTER
+STRING Start-Sleep -Seconds 10
+ENTER
+STRING [Windows.Forms.Cursor]::Position = $old
+ENTER
+STRING Start-Sleep -Seconds 10
+ENTER
+}
+DELAY 1000
+ENTER
+DELAY 2000
+CTRL HOME
+DELAY 2000
+CTRL END
